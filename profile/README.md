@@ -1,12 +1,4 @@
-## Hi there 👋
+## Who we are
 
-<!--
+The Data Collection and Decision Support Solutions Branch (DDSB) is a key partner to our client ministries, facilitating the use and management of data and analytics to enable and achieve government priorities through evidence-based policy and decision making. The branch provides business consulting and advice, data collection and decision support solution design and delivery, as well as data stewardship and governance of lifecycle support services. DDSB works closely with stakeholders both inside and outside of the Ontario Public Service and the Broader Public Sector.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
