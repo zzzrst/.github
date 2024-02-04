@@ -12,5 +12,7 @@ The Data Collection and Decision Support Solutions Branch (DDSB) is a key partne
 
 **Our Mandate:** CSC provides our partners with expert advice and innovative digital solutions that enable them to optimize the value of I&IT investments to meet their business priorities and the directions of the Government of Ontario.
 
+For more information, visit: [https://www.ontario.ca/page/about-ontario-public-service
+](https://www.ontario.ca/page/about-ontario-public-service)
 
 ![1672752120676](https://github.com/zzzrst/.github/assets/52824986/83e7830e-3126-4294-b920-2d05fef5d3a2)
